@@ -4,6 +4,6 @@
 	</head>
 	<body>
 		<h2 style="background: blue;text-align: center;color: white;">AVD Group</h2>
-		<p>HEllo USER</p>
+		<p>JENKINS HURAYY!!</p>
 	</body>
 </html>
