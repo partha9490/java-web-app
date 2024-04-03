@@ -3,8 +3,7 @@ pipeline {
         node{
             label 'jenkins-node'
         }
-    }
-    
+    }   
     stages {
         stage('checkout code') {
             steps {
