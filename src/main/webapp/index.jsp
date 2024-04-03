@@ -3,7 +3,7 @@
 		<title>AVD Group</title>
 	</head>
 	<body>
-		<h2 style="background: blue;text-align: center;color: white;">AVD Group</h2>
-		<p>JENKINS HURYY!! HU ! HU!! suuuu</p>
+		<h2 style="background: red;text-align: center;color: white;">AVD Group</h2>
+		<p>JENKINS HURYY!! HU ! HU!! pushhhhhh</p>
 	</body>
 </html>
